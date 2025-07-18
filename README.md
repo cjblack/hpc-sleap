@@ -2,10 +2,11 @@
 automating pose estimation training and inference on high performance computing platforms
 
 ## to-do
--[ ] script to secure copy all files
--[ ] script to store user information for hpc
--[ ] test on slurm
--[ ] steps for model training
+
+- [ ] script to secure copy all files
+- [ ] script to store user information for hpc
+- [ ] test on slurm
+- [ ] steps for model training
 
 ## Grid Engine 
 This is currently working on UCL's Myriad high performance computing cluster.
